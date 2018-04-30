@@ -17205,8 +17205,7 @@ E99/J04DR	NN	O
 in	IN	O
 terms	NNS	O
 of	IN	O
-material	NN	O
-and	CC	O
+relevant	JJ	B-AMBI
 pin	NN	O
 configuration	NN	O
 .	.	O
